@@ -1,0 +1,13 @@
+Program wykorzystuje bibliotekê JFreeChart i jest tworzony w NeBeans.
+Strona opisuj¹ca j¹ http://www.jfree.org/index.html
+Strona, gdzie mo¿na pobraæ https://sourceforge.net/projects/jfreechart/files/
+Pobrana jest ca³a paczka.
+Do projektu do³¹cza siê j¹ nastêpuj¹co:
+W utworzonym projekcie nale¿y wybraæ z drzewka Libraries, prawym przyciskiem myszy Properties.
+W oknie wybraæ Add JAR/Folder i wybraæ trzy pliki typu jar:
+	jfreechart-1.X.XX
+	jfreechart-1.X.XX-swt
+	jcommon-1.X.XX
+Znajduj¹ siê one w paczce w folderze lib.
+
+Do³¹czone biblioteki do wykresy.jar znajduj¹ siê w lib.
